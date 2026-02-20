@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/muhammad-elkazafy-10a273342/)/" target="_blank">Muhammad</a> <img
+<h1 align="center">Hi there, I'm <a href="(https://www.linkedin.com/in/muhammad-elkazafy-10a273342/)/" target="_blank">Muhammad</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
